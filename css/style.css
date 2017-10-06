@@ -136,6 +136,48 @@ header a:hover{
   width:90px;
 }
 
+.warp{
+  width:450px;
+  overflow:hidden;
+  margin:auto;
+  margin-top:200px;
+  padding:20px;
+  background:#ffffff;
+  border:1px solid silver;
+  border-radius:5px;
+}
+
+.warp input{
+  width:400px;
+  height:35px;
+  margin-bottom:20px;
+  border-radius:6px;
+  border:1px solid silver;
+  padding:5;
+  margin-left:20px;
+  margin-right:19px;
+  text-align:center;
+}
+
+.warp h2{
+  text-align:center;
+}
+
+.warp {
+  text-align: center;
+}
+
+.warp .btn-login{
+  width:403px;
+  padding:5;
+  height:40px;
+  border-radius:6px;
+  background-color:##FFFF33;
+  border:0;
+  font-size:18px;
+  margin:20px;
+}
+
 /* Sidebar */
 aside#sidebar{
   float:right;
