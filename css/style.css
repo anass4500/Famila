@@ -151,7 +151,20 @@ footer p{
 
 /*About-section*/
 
+#About-main h1{
+  font: 35px/2 Courier, sans-serif;
+  font-weight:bolder;
+  text-align:center;
+  color:#E39D44;
+  letter-spacing:3px;
+  text-decoration:underline;
+}
 
+#About-main p{
+  font: 20px/2 Arial, sans-serif;
+  text-align:center;
+  color:#595555;
+}
 
 /*login-boxes*/
 
@@ -167,6 +180,7 @@ footer p{
   box-sizing:border-box;
   box-shadow:0 15px 25px rgba(0,0,0,.5);
   border-radius:7px;
+  text-align:center;
 }
 
 .user{
@@ -229,10 +243,9 @@ footer p{
   border-bottom:1px;
   outline:none;
   background:#6A6868;
-  padding:15px 35px;
+  padding:17px 50px;
   cursor:pointer;
-  border-radius:100px;
-  margin-left: 117px;
+  border-radius:6px;
   margin-top:50px;
   font-weight:bolder;
   font-size:20px;
